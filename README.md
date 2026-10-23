@@ -9,11 +9,12 @@
 
 | 版本 | 界面技术 | 文件 |
 |---|---|---|
+| 超级快捷键 (Win32) | C++ 核心自带的系统控件界面 | `SuperKey-Win32-<版本>-x64-Setup.exe` / `-Portable.zip` |
 | 超级快捷键 (WPF) | WPF（.NET） | `SuperKey-WPF-<版本>-x64-Setup.exe` / `-Portable.zip` |
 | 超级快捷键 (Electron) | Electron + React | `SuperKey-Electron-<版本>-x64-Setup.exe` / `-Portable.zip` |
 | 超级快捷键 (Tauri) | Tauri + React | `SuperKey-Tauri-<版本>-x64-Setup.exe` / `-Portable.zip` |
 | 超级快捷键 (Direct2D) | Direct2D 自绘（试验，未经实际使用） | `SuperKey-Direct2D-<版本>-x64-Setup.exe` / `-Portable.zip` |
-| KeyCast 按键显示 | WPF（.NET） | 录屏、讲课时把按键显示在屏幕上 |
+| KeyCast 按键显示 | WPF（.NET） | `KeyCast-<版本>-x64.zip`：解压即用，录屏、讲课时把按键显示在屏幕上 |
 
 各版本用的是同一份设置，同一时间只能运行一个；装了多个版本时，先退出正在运行的那个再打开另一个。
 
