@@ -13,6 +13,7 @@
 | 超级快捷键 (WPF) | WPF（.NET） | `SuperKey-WPF-<版本>-x64-Setup.exe` / `-Portable.zip` |
 | 超级快捷键 (Electron) | Electron + React | `SuperKey-Electron-<版本>-x64-Setup.exe` / `-Portable.zip` |
 | 超级快捷键 (Tauri) | Tauri + React | `SuperKey-Tauri-<版本>-x64-Setup.exe` / `-Portable.zip` |
+| 超级快捷键 (Qt) | Qt 6 Quick（QML） | `SuperKey-Qt-<版本>-x64-Setup.exe` / `-Portable.zip` |
 | 超级快捷键 (Direct2D) | Direct2D 自绘（试验，未经实际使用） | `SuperKey-Direct2D-<版本>-x64-Setup.exe` / `-Portable.zip` |
 | KeyCast 按键显示 | WPF（.NET） | `KeyCast-<版本>-x64.zip`：解压即用，录屏、讲课时把按键显示在屏幕上 |
 
